@@ -15,21 +15,23 @@ JVM bytecode programs under the supervision of Prof. Carlo Alberto Furia.
 
 * Education
 
-- 2022–present :: Ph.D., Università della Svizzera italiana, Lugano, Switzerland. Deductive verification of JVM bytecode programs, supervised by Prof. Carlo Alberto Furia.
-- 2020–2022 :: M.Sc. in Software and Data Engineering, Università della Svizzera italiana, Lugano, Switzerland.
-- 2017–2020 :: B.Sc. in Informatics, Università della Svizzera italiana, Lugano, Switzerland.
+- 2022 -- present :: Ph.D., Università della Svizzera italiana, Lugano, Switzerland. Deductive verification of JVM bytecode programs, supervised by Prof. Carlo Alberto Furia.
+- 2020 -- 2022 :: M.Sc. in Software and Data Engineering, Università della Svizzera italiana, Lugano, Switzerland.
+- 2017 -- 2020 :: B.Sc. in Informatics, Università della Svizzera italiana, Lugano, Switzerland.
 
 * Experience
 
-- 2022–present :: Teaching Assistant, Università della Svizzera italiana, Lugano, Switzerland. Assistance for the Software Design & Modeling and Software Analysis courses.
-- Sep–Dec 2019 :: Software Developer, Hoxell, Lugano, Switzerland. Setup application of the hotel management system (PHP/Laravel).
-- Jun–Aug 2016 :: Software Developer, Globo S.r.l., Bergamo, Italy. GIS application for converting cadastral data (Python/QGIS).
+- Feb -- Jul 2026 :: Software Engineering Intern, JetBrains, Munich, Germany. Worked on the uniqueness and locality system of SnaKt, a formal verifier for Kotlin.
+- 2022 -- present :: Teaching Assistant, Università della Svizzera italiana, Lugano, Switzerland. Providing assistance for the Software Design & Modeling and Software Analysis courses.
+- Sep -- Dec 2019 :: Software Engineering Intern, Hoxell, Lugano, Switzerland. Worked on the setup application of a hotel management system using PHP and Laravel.
+- Jun -- Aug 2016 :: Software Engineering Intern, Globo S.r.l., Bergamo, Italy. Worked on a GIS application for converting cadastral data using Python and QGIS.
 
 * Projects
 
-- ByteBack :: A deductive verification tool for JVM bytecode ([[https://github.com/atom-sw/byteback][github.com/atom-sw/byteback]]).
-- Clontrol :: A delimited continuations library for Clojure on the JVM ([[https://github.com/paganma/clontrol][github.com/paganma/clontrol]]).
-- BCC :: A model-based testing framework for the Boogie intermediate verification language ([[https://github.com/paganma/boogie-consistency-checker][github.com/paganma/boogie-consistency-checker]]).
+- SnaKt :: A formal verification compiler plugin for Kotlin, based on the Viper verification infrastructure. Contributed the uniqueness and locality checker plugins. ([[https://github.com/JetBrains/SnaKt][link]])
+- ByteBack :: A deductive verification tool for JVM bytecode. ([[https://github.com/atom-sw/byteback][link]])
+- Clontrol :: A delimited continuations library for Clojure on the JVM. ([[https://github.com/paganma/clontrol][link]])
+- BCC :: A model-based testing framework for the Boogie intermediate verification language. ([[https://github.com/paganma/boogie-consistency-checker][link]])
 
 * Publications
 
