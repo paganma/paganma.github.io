@@ -31,7 +31,7 @@ JVM bytecode programs under the supervision of Prof. Carlo Alberto Furia.
 - SnaKt :: A formal verification compiler plugin for Kotlin, based on the Viper verification infrastructure. Contributed the uniqueness and locality checker plugins. ([[https://github.com/JetBrains/SnaKt][link]])
 - ByteBack :: A deductive verification tool for JVM bytecode. ([[https://github.com/atom-sw/byteback][link]])
 - Clontrol :: A delimited continuations library for Clojure on the JVM. ([[https://github.com/paganma/clontrol][link]])
-- BCC :: A model-based testing framework for the Boogie intermediate verification language. ([[https://github.com/paganma/boogie-consistency-checker][link]])
+- Boogie Consistency Checker :: A model-based testing framework for the Boogie intermediate verification language. ([[https://github.com/paganma/boogie-consistency-checker][link]])
 
 * Publications
 
